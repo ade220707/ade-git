@@ -1,0 +1,5 @@
+ini adalah resolusi kegiatan XII PPLG1 
+
+-teori tentang gt dan github 
+-praktik github 
+-kaloborasi menggunakan github dan git
